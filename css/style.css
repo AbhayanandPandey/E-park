@@ -386,7 +386,7 @@ a {
    background-size: cover;
    filter: brightness(.3);
    display: inline;
-   background-image: url(/3rd.jpg);
+   background-image: url(../img/3rd.jpg);
    background-position: center;
   } 
   .content
