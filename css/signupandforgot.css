@@ -138,7 +138,7 @@ form.sign-in-form {
   outline: none;
   height: 49px;
   border-radius: 49px;
-  color: #fff;
+  color: #000000;
   text-transform: uppercase;
   font-weight: 600;
   margin: 10px 0;
@@ -199,7 +199,7 @@ form.sign-in-form {
 }
 
 .panel .content {
-  color: #fff;
+  color: #000000;
   transition: transform 0.9s ease-in-out;
   transition-delay: 0.6s;
 }
@@ -218,7 +218,7 @@ form.sign-in-form {
 .btn.transparent {
   margin: 0;
   background: none;
-  border: 2px solid #fff;
+  border: 2px solid #000000;
   width: 130px;
   height: 41px;
   font-weight: 600;
