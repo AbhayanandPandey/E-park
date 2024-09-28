@@ -308,6 +308,7 @@ a {
    height: 650px;
    border: 1px solid black;
    margin-top: 100px;
+   position: relative;
 }
 .par-img
 {
