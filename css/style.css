@@ -767,8 +767,10 @@ ul{
         }
         #slider {
             position: relative;
-            width: 59%;
-            height: 47vw;
+            width: 69%;
+            /* width: 59px; */
+            /* height: 48px; */
+            height: 52vw;
             margin: 39px auto;
             font-family: 'Helvetica Neue', sans-serif;
             transform-style: preserve-3d;
